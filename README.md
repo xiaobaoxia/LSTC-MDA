@@ -1,5 +1,5 @@
 
-This repository is the official PyTorch implementation of "LSTC-MDA: A Unified Framework for Long-Short Term Temporal Convolution and Mixed Data Augmentation in Skeleton-Based Action Recognition". LSTC-MDA achieves state-of-the-art performance in skeleton-based action recognition.
+This repository is the official PyTorch implementation of "LSTC-MDA: A Unified Framework for Long-Short Term Temporal Convolution and Mixed Data Augmentation in Skeleton-Based Action Recognition". LSTC-MDA achieves state-of-the-art performance in skeleton-based action recognition.https://arxiv.org/abs/2509.14619
 
 <img width="1080" height="326" alt="image" src="https://github.com/user-attachments/assets/68bb36e4-6d46-42a8-8604-680b61dfd76b" />
 
